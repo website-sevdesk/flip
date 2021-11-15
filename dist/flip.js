@@ -240,7 +240,7 @@ if (!Object.keys) {
 
 /*
  * @pqina/flip v1.8.0 - A Beautifully Animated Flip Clock
- * Copyright (c) 2020 PQINA - https://pqina.nl/flip/
+ * Copyright (c) 2021 PQINA - https://pqina.nl/flip/
  */
 (function(root, undefined) {
 	'use strict';
